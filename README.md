@@ -26,12 +26,18 @@ A passionate full-stack and blockchain developer with a curiosity for turning bo
 
 ---
 
-### 🌐 Project Two
-> *One line about the project and who it helps.*
+### 🌐 PromptReality
+> *Web app to generate new assets through user prompt and mint or trade them for your virtual world.*
 
-**Tech:** Next.js, Rust, Solana  
-**Highlights:** On-chain voting, PKP wallet, Chainlink automation  
-[🔗 Live Demo](#) | [📂 Code](#)
+**Tech:** Javascript , React , Python , Solidity  
+**Highlights:** Contains the following methods: mintAsset - mints a newly generated asset on-chain
+sell - selling assets on the marketplace
+buy - buying assets on the marketplace
+fetchAllAssets - fetches all the assets on the platform
+fetchInventory - fetches user's inventory
+bridge - bridges a particular asset from Amoy to Fuji
+getPriceInUsd - fetches each asset's price from Matic to usd
+apiCallMintAsset - calls backend API using chainlink functions to validate the user's latest generation on-chain and sets as URI to the minted asset 
 
 ---
 
