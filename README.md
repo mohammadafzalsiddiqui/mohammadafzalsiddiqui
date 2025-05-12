@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hey there, I'm Mohammad Afzal Siddiqui
 
-<!--
-**mohammadafzalsiddiqui/mohammadafzalsiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+A passionate full-stack and blockchain developer with a curiosity for turning bold ideas into real-world applications. I love building smart systems — whether it's dApps, AI-integrated tools, or projects that push the boundaries of tech.
 
-Here are some ideas to get you started:
+- 🧠 Always learning: from cutting-edge frontend to decentralized backends
+- 🔬 Exploring: Smart Contracts, Layer 2s, AI+Blockchain, AR Experiences
+- 🛠️ Maker of experimental prototypes & practical tools
+- 🧩 Hackathon builder and open-source contributor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=js,react,nextjs,java,solidity,rust,git)
+
+---
+
+## 🧩 Projects
+
+### 🚀 Project Name Here
+> *Short one-liner of what this project does or solves.*
+
+**Tech:** React, Solidity, IPFS  
+**Highlights:** NFT minting, live wallet integration, ZKP-based privacy  
+[🔗 Live Demo](#) | [📂 Code](#)
+
+---
+
+### 🌐 Project Two
+> *One line about the project and who it helps.*
+
+**Tech:** Next.js, Rust, Solana  
+**Highlights:** On-chain voting, PKP wallet, Chainlink automation  
+[🔗 Live Demo](#) | [📂 Code](#)
+
+---
+
+*➕ Add more projects using the format above.*
+
+---
+
+## 📊 GitHub Stats
+
+![Afzal's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-link-here)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](your-link-here)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=web)](your-link-here)
+
+---
+
+🔍 *Always open to collaborations, feedback, and building cool things together!*
