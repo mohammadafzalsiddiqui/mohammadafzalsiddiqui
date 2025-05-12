@@ -40,12 +40,6 @@ A passionate full-stack and blockchain developer with a curiosity for turning bo
 
 ---
 
-## 📊 GitHub Stats
-
-![Afzal's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
 
 ## 🏆 GitHub Trophies
 
@@ -55,8 +49,8 @@ A passionate full-stack and blockchain developer with a curiosity for turning bo
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-link-here)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](your-link-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mdafzalsiddiqui/)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://x.com/afzaltwtss)
 [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=web)](your-link-here)
 
 ---
