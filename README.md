@@ -18,12 +18,11 @@ A passionate full-stack and blockchain developer with a curiosity for turning bo
 
 ## 🧩 Projects
 
-### 🚀 Project Name Here
-> *Short one-liner of what this project does or solves.*
+### 🚀 CoinPilot
+> *CoinPilot is a comprehensive DCA platform that supports multiple Services and provides smart investment strategies.*
 
 **Tech:** React, Solidity, IPFS  
 **Highlights:** NFT minting, live wallet integration, ZKP-based privacy  
-[🔗 Live Demo](#) | [📂 Code](#)
 
 ---
 
